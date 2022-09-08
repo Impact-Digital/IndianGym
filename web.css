@@ -1,13 +1,12 @@
    body {
           
           font-family: 'Roboto Slab';
-          background-color: #6c7dbb;
+          background-color: darkblue;
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -o-background-size: cover;
           background-size: cover;
           color: #0000009a;
-          background-color: darkblue;
         }
 
 .togl{
