@@ -6,7 +6,7 @@
           -moz-background-size: cover;
           -o-background-size: cover;
           background-size: cover;
-          color: #0000009a;
+          color: white;
         }
 
 .togl{
@@ -189,6 +189,7 @@ footer{
   text-align: center;
   font-family: arial;
   background-color: cyan;
+  color: white;
   /* height: 260px; */
 }
 
